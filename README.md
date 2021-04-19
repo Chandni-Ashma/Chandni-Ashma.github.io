@@ -17,5 +17,7 @@ git pull https://github.com/jakariamd/chandni.git
 git update
 
 ```
+git add .
+git commit -m "initial commit"
 git push -u origin main
 ```
