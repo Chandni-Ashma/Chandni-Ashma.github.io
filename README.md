@@ -13,3 +13,9 @@ Git pull request
 ```
 git pull https://github.com/jakariamd/chandni.git
 ```
+
+git update
+
+```
+git push -u origin main
+```
